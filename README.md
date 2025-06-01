@@ -1,1 +1,1 @@
-# Learntube
+# Learntube. AI Youtube course generator
